@@ -1,0 +1,49 @@
+header{
+    width: 100%;
+}
+#cabeza,#banner{
+    width: 100%;
+}
+#redes{
+    float: left;
+    width: 20%;
+}
+#logo{
+    text-align: center;
+    float: left;
+    width: 60%;
+}
+#telefono{
+    float: right;
+    width: 20%;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.hipervinculo{
+    text-transform: uppercase;
+    color: black;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+.hipervinculo2{
+    font-family: Italic;
+}
+#hipervinculo3{
+    color: red;
+}
+#mision{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#footer{
+    background-color: grey;
+}
+
+
+
